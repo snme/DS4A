@@ -4,6 +4,7 @@
 ./FimaNfipClaims.csv
 ./semiclean_katrina_louisiana_FIMA_NFIP.csv
 ./tract_covariates.csv
+./NFHL by Tract.csv
 *.csv
 *.xlsx
 *.pkl
